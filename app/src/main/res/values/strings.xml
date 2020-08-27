@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="textviewIntroduction">Unit Converter Application </string>
+    <string name="textviewTwo">Developed by - Aayush Pandey L3 C8</string>
+    <string name="buttonOne">Unit Converter Mass</string>
+    <string name="textviewOne">Enter any number below for conversion</string>
+    <string name="textviewFrom">FROM</string>
+    <string name="textviewTo">To</string>
+    <string name="buttonConvert">Convert</string>
+    <string name="textviewOutput"></string>
+    <string name="textviewforoutput">Your Reasult</string>
+    <string name="buttonDistanceConv">Unit Converter Distance</string>
+    <string name="textviewInvalid"></string>
+
+    <string-array name="spinnerOne">
+        <item>Select the unit</item>
+        <item>Kilo Gram (Kg)</item>
+        <item>Gram (g)</item>
+        <item>Pound (lb)</item>
+        <item>Ounces (o)</item>
+        <item>Milli Gram (mg)</item>
+    </string-array>
+
+    <string-array name="spinnerTo">
+        <item>Select the unit</item>
+        <item>Kilo Gram (Kg)</item>
+        <item>Gram (g)</item>
+        <item>Pound (lb)</item>
+        <item>Ounces (o)</item>
+        <item>Milli Gram (mg)</item>
+    </string-array>
+
+    <string-array name="spinnerfromDistance">
+        <item>Select the unit</item>
+        <item>Kilometer (Km)</item>
+        <item>Meter (m)</item>
+        <item>Mile (m)</item>
+        <item>Inch (in)</item>
+        <item>Foot (ft)</item>
+    </string-array>
+
+    <string-array name="spinnerToDistance">
+        <item>Select the unit</item>
+        <item>Kilometer (Km)</item>
+        <item>Meter (m)</item>
+        <item>Mile (m)</item>
+        <item>Inch (in)</item>
+        <item>Foot (ft)</item>
+    </string-array>
+
+
+
+</resources>
